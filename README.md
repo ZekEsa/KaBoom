@@ -1,4 +1,4 @@
 # KaBoom
 Audio recognition project using Java.
 
-Note: Can only recognize songs from MUSIC FOLDEER
+Note: Can only recognize songs from music folder
